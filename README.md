@@ -14,6 +14,7 @@ lein ring server
 ####REST service
 
 http://localhost:3000/api/all - This will get all events from database and display it as JSON.
+
 http://localhost:3000/- Home page is here.
 
 Example:
