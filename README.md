@@ -17,6 +17,14 @@ http://localhost:3000/api/all - This will get all events from database and displ
 
 http://localhost:3000/- Home page is here.
 
+Make sure to enter correct values for prices and hosts when editing or adding event.(input should be comma separated value)
+
+for prices value input is: 1,2,3,10
+
+for hosts valid input is: FONIS,AIESEC,FON
+
+Make sure that when entering host names, that host really exist in host_names table.
+
 Example:
 
 ```JSON
