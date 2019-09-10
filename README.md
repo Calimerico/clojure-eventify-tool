@@ -11,6 +11,8 @@ To start a web server for the application, run:
 lein ring server
 ```
 
+Unfortunately this app does not work with all versions of lein. For example, it does not work with 2.9.1. version. But fortunately it works with 2.8.3.
+
 ####REST service
 
 http://localhost:3000/api/all - This will get all events from database and display it as JSON.
